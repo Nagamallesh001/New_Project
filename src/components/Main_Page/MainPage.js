@@ -4,8 +4,6 @@ import CourseTypes from '../Pages/CourseType/CourseType';
 import Courses from '../Pages/Course/Course';
 import StudentRegistrations from '../Pages/StudentReg/StudentReg';
 
-
-
 function MainPage() {
   return (
     
